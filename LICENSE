@@ -1,24 +1,44 @@
-This is free and unencumbered software released into the public domain.
+Project Replicator License
 
-Anyone is free to copy, modify, publish, use, compile, sell, or
-distribute this software, either in source code form or as a compiled
-binary, for any purpose, commercial or non-commercial, and by any
-means.
+Project Replicator is licensed under the Apache License 2.0, with the following
+additional conditions:
 
-In jurisdictions that recognize copyright laws, the author or authors
-of this software dedicate any and all copyright interest in the
-software to the public domain. We make this dedication for the benefit
-of the public at large and to the detriment of our heirs and
-successors. We intend this dedication to be an overt act of
-relinquishment in perpetuity of all present and future rights to this
-software under copyright law.
+1. Commercial use
 
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-IN NO EVENT SHALL THE AUTHORS BE LIABLE FOR ANY CLAIM, DAMAGES OR
-OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
-ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
-OTHER DEALINGS IN THE SOFTWARE.
+   Project Replicator may be used for personal, educational, and internal
+   research purposes free of charge. If any of the following conditions are met,
+   a separate commercial license must be obtained from the producer:
 
-For more information, please refer to <https://unlicense.org>
+   a. SaaS / hosted service: You may not use the source code of Project
+      Replicator to operate a multi-tenant or single-tenant hosted service
+      that is made available to third parties (paying or free), without
+      explicit written authorization from the producer.
+
+   b. Bundled products: You may not embed or distribute Project Replicator
+      as part of a commercial product or service offering without explicit
+      written authorization from the producer.
+
+   c. Branding: You may not remove or modify any Project Replicator logos,
+      copyright notices, or "Powered by Project Replicator" attributions
+      present in any frontend or user-facing interface derived from this
+      codebase without explicit written authorization from the producer.
+
+   To inquire about a commercial license, please open an issue in the
+   project repository or contact the maintainers directly.
+
+2. Contributor agreement
+
+   By submitting a contribution (pull request, patch, or otherwise) to this
+   repository, you agree that:
+
+   a. The producer may adjust the licensing terms of this project to be more
+      restrictive or more permissive as deemed necessary.
+
+   b. Your contributed code may be used for commercial purposes, including
+      but not limited to hosted service operations.
+
+Apart from the specific conditions above, all other rights and restrictions
+follow the Apache License 2.0. The full text of the Apache License 2.0 is
+available at http://www.apache.org/licenses/LICENSE-2.0.
+
+© 2026 Project Replicator
