@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  Turn a hardware idea into a prototype-ready plan, manufacturing files, and real-world fabrication steps.
+  Turn a hardware idea into prototype-ready mechanical, electrical, and manufacturing work.
 </p>
 
 <p align="center">
@@ -33,8 +33,9 @@
 Replicator is an AI workspace for people building physical products.
 
 Describe what you want to make, and Replicator helps move the work forward:
-from a rough idea to a structured product plan, parts decisions, design outputs,
-manufacturing handoff files, and the next fabrication steps.
+from a rough idea to a structured product plan, parts decisions, mechanical
+design outputs, electrical and PCB work, manufacturing handoff files, and the
+next fabrication steps.
 
 It is designed for founders, makers, hardware teams, and product builders who
 want to spend less time jumping between separate design tools, vendor portals,
@@ -45,7 +46,9 @@ spreadsheets, and device workflows.
 - Turn a product idea into a clear build plan.
 - Explore components, constraints, product decisions, and next steps with an AI
   product engineer.
-- Prepare design and manufacturing handoffs for prototype work.
+- Work through mechanical structure, electrical design, PCB planning, and
+  prototype constraints in one flow.
+- Prepare design, electrical, and manufacturing handoffs for prototype work.
 - Organize generated files, decisions, and iterations inside one local project.
 - Prepare work for manufacturing services such as JLCPCB and Huaqiu, where
   supported.
