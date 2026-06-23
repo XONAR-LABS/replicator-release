@@ -36,6 +36,20 @@ Replicator は、物理プロダクトやハードウェア試作のための AI
 
 創業者、メイカー、ハードウェアチーム、プロダクトチームが、設計ツール、製造サービス、スプレッドシート、デバイス操作を行き来する時間を減らすためのアプリです。
 
+## スクリーンショット
+
+<p>
+  <img src="./assets/screenshots/replicator-cad-model.png" alt="Replicator CAD model workspace" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-pcb-placement.png" alt="Replicator PCB placement review" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-gerber-preview.png" alt="Replicator Gerber preview" width="100%">
+</p>
+
 ## Replicator ができること
 
 - 製品アイデアを、実行しやすい開発プランに整理します。

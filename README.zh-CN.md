@@ -36,6 +36,20 @@ Replicator 是面向实体产品和硬件原型的 AI 工作台。
 
 它适合创始人、创客、硬件团队和产品团队，用来减少在设计工具、供应链平台、表格、制造平台和设备流程之间反复切换的时间。
 
+## 截图
+
+<p>
+  <img src="./assets/screenshots/replicator-cad-model.png" alt="Replicator CAD 模型工作区" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-pcb-placement.png" alt="Replicator PCB 贴装预览" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-gerber-preview.png" alt="Replicator Gerber 预览" width="100%">
+</p>
+
 ## Replicator 可以帮你做什么
 
 - 把一句产品想法整理成清晰的实现计划。

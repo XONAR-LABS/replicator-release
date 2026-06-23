@@ -41,6 +41,20 @@ It is designed for founders, makers, hardware teams, and product builders who
 want to spend less time jumping between separate design tools, vendor portals,
 spreadsheets, and device workflows.
 
+## Screenshots
+
+<p>
+  <img src="./assets/screenshots/replicator-cad-model.png" alt="Replicator CAD model workspace" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-pcb-placement.png" alt="Replicator PCB placement review" width="100%">
+</p>
+
+<p>
+  <img src="./assets/screenshots/replicator-gerber-preview.png" alt="Replicator Gerber preview" width="100%">
+</p>
+
 ## What Replicator Helps You Do
 
 - Turn a product idea into a clear build plan.
